@@ -21,6 +21,9 @@ npm create nuxt-app my-nuxt-project
 
 ```
 git config --global --unset credential.helper
+
+git add --all
+
 git push origin gh-pages
 ```
 
