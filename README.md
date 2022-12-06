@@ -9,10 +9,20 @@ cd nuxtapp
 
 git branch gh-pages
 
+```
+```
+C:\Programing\nuxtapp\nuxtapp>npm create nuxt-app my-nuxt-project
+```
+
+```
 npm create nuxt-app my-nuxt-project
 ```
 ![](2022-12-06-13-56-14.png)
 
+```
+git config --global --unset credential.helper
+git push origin gh-pages
+```
 
 ```
 cd my-nuxt-project
