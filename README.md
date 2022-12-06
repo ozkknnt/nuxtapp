@@ -33,3 +33,9 @@ cd my-nuxt-project
 npm run build
 ```
 
+
+
+--------------
+上記うまくいかず、以下を試す
+
+https://zenn.dev/kazuhe/articles/nuxt3-githubpages-blog
